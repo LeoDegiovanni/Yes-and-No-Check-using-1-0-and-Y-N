@@ -1,0 +1,2 @@
+The reason I put all the while loops in a while 1 == 1 loop and ended it with a break is 
+so that you can collapse all the while loops, and keep everything neaty and tidy.
